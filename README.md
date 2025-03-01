@@ -26,11 +26,9 @@ Inspired by the legendary mirror from Snow White, this smart mirror project comb
 
 | Command | Function |
 |---------|----------|
-| "Mirror Mirror, wake up" | Activates the system |
-| "Show me the weather" | Displays current and forecasted weather |
-| "What's on my calendar today?" | Shows scheduled appointments |
-| "Play my morning playlist" | Starts playing predetermined music |
-| "How do I look today?" | Triggers compliment mode |
+| "Mirror Mirror On The Wall" | Activates the system |
+| "Whats The Time?" | Displays current and forecasted weather |
+| "stop listening" | Taunts that it can not be turned off |
 
 ## 🛠️ Setup and Installation
 
