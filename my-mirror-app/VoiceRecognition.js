@@ -8,7 +8,7 @@ recognition.interimResults = false;
 recognition.maxAlternatives = 1;
 
 const outputDiv = console.log("Listening...");
-//changes
+
 recognition.onresult = (event) => {
   const transcript =
     event.results[event.results.length - 1][0].transcript.toLowerCase();
