@@ -30,16 +30,7 @@ Inspired by the legendary mirror from Snow White, this smart mirror project comb
 | "Whats The Time?" | Displays current and forecasted weather |
 | "stop listening" | Taunts that it can not be turned off |
 
-## 🛠️ Setup and Installation
 
-Detailed installation instructions can be found in the [INSTALL.md](INSTALL.md) file.
-
-```bash
-# Quick start for developers
-git clone https://github.com/yourusername/magic-mirror.git
-cd magic-mirror
-./setup.sh
-```
 
 ## 📸 Gallery
 
