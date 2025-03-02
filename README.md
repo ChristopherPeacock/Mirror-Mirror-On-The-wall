@@ -11,13 +11,11 @@ Inspired by the legendary mirror from Snow White, this smart mirror project comb
 - **Exclusive Face Recognition**: Responds only to authorized user (my wife)
 - **Voice Interaction**: Natural language processing for conversational experiences
 - **Speech-to-Text**: Accurately captures and processes spoken commands
-- **Intelligent Responses**: Context-aware conversation capabilities
 - **Command Center**: Quick access to essential information and home controls
 
 ## 🧠 Core Technologies
 
 - Computer Vision with TensorFlow for precise face recognition
-- Natural Language Processing for understanding context and intent
 - Custom wake-word detection for hands-free activation
 - Responsive UI designed for mirror display
 - Privacy-focused design with all processing done locally
@@ -30,8 +28,6 @@ Inspired by the legendary mirror from Snow White, this smart mirror project comb
 | "Whats The Time?" | Displays current and forecasted weather |
 | "stop listening" | Taunts that it can not be turned off |
 
-
-
 ## 📸 Gallery
 
 ![Mirror in Action](https://via.placeholder.com/400x300)
@@ -41,8 +37,6 @@ Inspired by the legendary mirror from Snow White, this smart mirror project comb
 
 - Smart home integration
 - Mood detection and adaptive responses
-- Personalized news filtering
-- Health monitoring capabilities
 - Expanded multi-user support (maybe... but she might not approve!)
 
 ## 🪄 Behind the Magic
