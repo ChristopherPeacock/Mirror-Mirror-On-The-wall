@@ -22,7 +22,7 @@ function initFaceDetection() {
   console.log("face-api.js loaded successfully");
 
   const video = document.getElementById("video");
-  const modelsPath = "models";
+  const modelsPath = "scripts.js/models";
 
   // Load all required models
   Promise.all([
